@@ -21,7 +21,4 @@ Pseudocode for the program:
       
 Output:
     
-      https://user-images.githubusercontent.com/86454425/220006336-62ceb53d-bd57-4d97-bfe2-32031028e1f1.png
-      
-     
-
+![DE](https://user-images.githubusercontent.com/86454425/220006761-e421e948-da6a-4e80-a59f-66c35940d86e.png)
