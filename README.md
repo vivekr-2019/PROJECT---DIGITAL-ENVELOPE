@@ -21,5 +21,6 @@ Pseudocode for the program:
       
 Output:
     
-      ![image](https://user-images.githubusercontent.com/86454425/220006336-62ceb53d-bd57-4d97-bfe2-32031028e1f1.png)
+      https://user-images.githubusercontent.com/86454425/220006336-62ceb53d-bd57-4d97-bfe2-32031028e1f1.png 
+     
 
