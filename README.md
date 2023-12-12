@@ -1,6 +1,6 @@
 # Digital-Envelope
 
-# Digital Envelope
+
 
 A **digital envelope** is a technique used for secure data transmission that combines symmetric key encryption and public key encryption. In this method, a message is first encrypted using a symmetric key, which is then encrypted using the recipient's public key. The resulting digital envelope includes the encrypted message as well as the encrypted symmetric key.
 
